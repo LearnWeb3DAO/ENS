@@ -1,5 +1,7 @@
 # The Ethereum Name Service
 
+![](https://i.imgur.com/UnxKYz2.png)
+
 ## Background
 
 When web initially started the only way you could explore information on the web was by entering in its IP address. Then the concept of DNS was introduced which helped us to link a domain name to an IP address.
@@ -110,6 +112,7 @@ Awesome, You did it ❤️
     justify-content: center;
     align-items: center;
     font-family: "Courier New", Courier, monospace;
+    margin-left: 2%;
   }
 
   .footer {
