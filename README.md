@@ -275,10 +275,10 @@ Awesome, You did it ❤️
         <div className={styles.main}>
           <div>
             <h1 className={styles.title}>
-              Welcome to LearnWeb3 Punks {ens ? ens : address}!
+              Welcome to LearnWeb3 Punks - {ens ? ens : address}!
             </h1>
             <div className={styles.description}>
-              Its an NFT collection for LearnWeb3 Punks.
+              Its an NFT collection for LearnWeb3 students.
             </div>
             {renderButton()}
           </div>
@@ -295,10 +295,12 @@ Awesome, You did it ❤️
   }
   ```
 
+````
+
 - Now in your terminal which is pointing to my-app folder, execute
   ```bash
   npm run dev
-  ```
+````
 
 Your ENS dapp should now work without errors 🚀
 
