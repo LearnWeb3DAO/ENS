@@ -9,7 +9,7 @@ export default function Home() {
   const [walletConnected, setWalletConnected] = useState(false);
   // Create a reference to the Web3 Modal (used for connecting to Metamask) which persists as long as the page is open
   const web3ModalRef = useRef();
-  // Get the ENS
+  // ENS
   const [ens, setENS] = useState("");
   // Save the address of the currently connected contract
   const [address, setAddress] = useState("");
