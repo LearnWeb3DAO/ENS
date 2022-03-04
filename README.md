@@ -14,17 +14,14 @@ So whenever you type `learnweb3.io`, DNS takes care of translating it to the res
 - As we all know that Ethereum has long addresses which are hard to remember or type
 - ENS solves this issue by translating these wallet addresses, hashes etc into readable domains which are then saved on Ethereum blockchain
 - The best part about ENS is unlike DNS servers which are centralized, ENS works with the help of a smart contract which is censorship resistant.
-- So now when you are sending your wallet address to someone which looks like `0x1234huiahi....` you can actually send them `tom.eth` and the ENS would figure out that `tom.eth` is actually equal to your wallet address(`0x1234huiahi....`)
-
-
-## Build
-
-Its time to build something where we can use ENS.
+- So now when you are sending your wallet address to someone which looks like `0x1234huiahi....` you can actually send them `tom.eth` and the ENS would figure out that `tom.eth` is actually equal to your wallet address (`0x1234huiahi....`)
 
 
 ## Requirements
 
-Develop a website which can display the ENS for an address if it has one.
+Its time to build something where we can use ENS.
+
+We will develop a website which can display the ENS for an address if it has one.
 
 Lets gooo 🚀
 
@@ -33,10 +30,7 @@ Lets gooo 🚀
 
 - First lets get an ENS name for your address, start by opening up [https://app.ens.domains/](https://app.ens.domains/)
 - Make sure when you open the website, your MetaMask is connected to the `Rinkeby testnet` and it has some `Rinkeby Ether`
-
-- Copy your discord username(including the 4 digit code) and remove the hashtag and click search
-![](https://i.imgur.com/E7hD5Mb.png)
-
+- Search for an ENS domain name, any name you like, as long as it is available!
 - Click on `Available`
 
     ![](https://i.imgur.com/1p0EBmv.png)
