@@ -323,4 +323,8 @@ We will now deploy your dApp, so that everyone can see your website and you can 
 - Click `Deploy`
 - Now you can see your deployed website by going to your dashboard, selecting your project, and copying the URL from there!
 
-Share your website on Discord :D
+---
+
+To pass the skill test for this level, input YOUR address you used to buy the ENS domain from in the verification box.
+
+Share your website on Discord :D and as usual, feel free to ask any questions!
