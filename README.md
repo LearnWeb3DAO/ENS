@@ -63,7 +63,6 @@ Awesome, You did it ❤️
 
   ```
   - ENS
-      - hardhat-tutorial
       - my-app
   ```
 
@@ -171,7 +170,7 @@ Awesome, You did it ❤️
       const web3ModalRef = useRef();
       // ENS
       const [ens, setENS] = useState("");
-      // Save the address of the currently connected contract
+      // Save the address of the currently connected account
       const [address, setAddress] = useState("");
 
       /**
